@@ -26,7 +26,7 @@ Figure out what you need to change to give Javascript access to the `h1#header` 
 
 **YOUR NOTES**
 ```
-
+"DOMContentLoaded" is needed to read the header
 ```
 
 ## Deliverable 2
@@ -35,7 +35,8 @@ Now that you have access to the `h1#header` element, use Javascript to change th
 
 **YOUR NOTES**
 ```
-
+header.style.color = "red" 
+- place within scope of header
 ```
 
 ## Deliverable 3
