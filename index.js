@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function(e) {
+document.addEventListener("DOMContentLoaded", e => {
     const header = document.querySelector("#header")
     console.log("Here's your header:", header)
     
